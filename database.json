@@ -1,5 +1,12 @@
 {
-  "tokens": [
-  "8753795487:AAH92lhOy6p2LMDANhoRIQb9F6o3orSXM6M"
+  "bots": [
+    {
+      "BOT_TOKEN": "8753795487:AAH92lhOy6p2LMDANhoRIQb9F6o3orSXM6M",
+      "OWNER_ID": "1875265106"
+    },
+    {
+      "BOT_TOKEN": "8816031008:AAE-pVreDp_qG2X9udL0LfG-Y92diCgYqK0",
+      "OWNER_ID": "1875265106"
+    }
   ]
 }
